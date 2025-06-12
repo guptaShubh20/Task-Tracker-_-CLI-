@@ -23,10 +23,7 @@ A command-line to-do list application in Python to add, list, complete, and dele
 
 ```bash
 python main.py
+ 
 
-
-# OutPut
-
-![image](https://github.com/user-attachments/assets/b0daa304-68dd-4331-892c-e4f565b75285)
 
 
